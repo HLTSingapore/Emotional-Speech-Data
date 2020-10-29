@@ -3,6 +3,7 @@ This is the GitHub page for publicly available emotional speech data for speech 
 The ESD can be downloaded here: [ESD](https://drive.google.com/file/d/1SKwBUcyi-k6M4mficmcJcTFqMhmcaYIy/view?usp=sharing)
 
 @misc{zhou2020seen,
+
       title={Seen and Unseen emotional style transfer for voice conversion with a new emotional speech dataset}, 
       author={Kun Zhou and Berrak Sisman and Rui Liu and Haizhou Li},
       year={2020},
