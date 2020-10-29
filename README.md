@@ -1,7 +1,7 @@
 # Publicly Available Emotional Speech Dataset (ESD) for Speech Synthesis and Voice Conversion
 This is the GitHub page for publicly available emotional speech data for speech synthesis and voice conversion.
 
-This dataset contains 350 parallel utterances spoken by 10 native Mandarin speakers, and 10 English speakers with 5 emotional states (neutral, happy, angry, sad and surprise).
+This dataset contains 350 parallel utterances spoken by 10 native Mandarin speakers, and 10 English speakers with 5 emotional states (neutral, happy, angry, sad and surprise). The transcripts are provided.
 
 # Download 
 The ESD can be downloaded here: [Google Drive](https://drive.google.com/file/d/1SKwBUcyi-k6M4mficmcJcTFqMhmcaYIy/view?usp=sharing)
