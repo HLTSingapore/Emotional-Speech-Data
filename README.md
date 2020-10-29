@@ -3,6 +3,8 @@ This is the GitHub page for publicly available emotional speech data for speech 
 
 # Download 
 The ESD can be downloaded here: [Google Drive](https://drive.google.com/file/d/1SKwBUcyi-k6M4mficmcJcTFqMhmcaYIy/view?usp=sharing)
+
+
 Note: For users from mainland China, google drive cannot be accessed. Please send an email to zhoukun@u.nus.edu. We will share this dataset with you through other platforms.
 
 # Paper
