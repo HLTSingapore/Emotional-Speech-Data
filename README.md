@@ -12,12 +12,10 @@ Note: For users from mainland China, google drive cannot be accessed. Please sen
 # Paper
 If you are using this dataset, please kindly cite this [paper](https://arxiv.org/abs/2010.14794):
 ```
-@misc{zhou2020seen,
-      title={Seen and Unseen emotional style transfer for voice conversion with a new emotional speech dataset}, 
-      author={Kun Zhou and Berrak Sisman and Rui Liu and Haizhou Li},
-      year={2020},
-      eprint={2010.14794},
-      archivePrefix={arXiv},
-      primaryClass={cs.SD}
+@article{zhou2020seen,
+  title={Seen and Unseen emotional style transfer for voice conversion with a new emotional speech dataset},
+  author={Zhou, Kun and Sisman, Berrak and Liu, Rui and Li, Haizhou},
+  journal={arXiv preprint arXiv:2010.14794},
+  year={2020}
 }
 ```
