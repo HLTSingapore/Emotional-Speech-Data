@@ -12,10 +12,12 @@ Note: For users from mainland China, google drive cannot be accessed. Please sen
 # Paper
 If you are using this dataset, please kindly cite this [paper](https://arxiv.org/abs/2010.14794):
 ```
-@article{zhou2020seen,
-  title={Seen and Unseen emotional style transfer for voice conversion with a new emotional speech dataset},
+@inproceedings{zhou2021seen,
+  title={Seen and unseen emotional style transfer for voice conversion with a new emotional speech dataset},
   author={Zhou, Kun and Sisman, Berrak and Liu, Rui and Li, Haizhou},
-  journal={arXiv preprint arXiv:2010.14794},
-  year={2020}
+  booktitle={ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={920--924},
+  year={2021},
+  organization={IEEE}
 }
 ```
