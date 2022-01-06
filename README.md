@@ -4,7 +4,7 @@ This is the GitHub page for publicly available emotional speech dataset (ESD) fo
 This dataset contains 350 parallel utterances spoken by 10 native Mandarin speakers, and 10 English speakers with 5 emotional states (neutral, happy, angry, sad and surprise). The transcripts are provided.
 
 # License
-Please complete a [License](https://drive.google.com/file/d/1Q1Wa45u-ymzpUO3_U-y8yisn4f5PlDIK/view?usp=sharing) and send it to zhoukun@u.nus.ed. This database can only be used for research purpose.
+Please complete a [License](https://drive.google.com/file/d/1Q1Wa45u-ymzpUO3_U-y8yisn4f5PlDIK/view?usp=sharing) and send it to zhoukun@u.nus.edu. This database can only be used for research purpose.
 
 # Download 
 The whole dataset can be downloaded here: [Google Drive](https://drive.google.com/file/d/1scuFwqh8s7KIYAfZW1Eu6088ZAK2SI-v/view?usp=sharing)
