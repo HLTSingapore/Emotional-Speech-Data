@@ -6,8 +6,8 @@ This dataset contains 350 parallel utterances spoken by 10 native Mandarin speak
 # License
 Please complete a [License](https://drive.google.com/file/d/1Q1Wa45u-ymzpUO3_U-y8yisn4f5PlDIK/view?usp=sharing) and send it to zhoukun@u.nus.edu. This database can only be used for research purpose.
 
-# Download 
-The whole dataset can be downloaded here: [Google Drive](https://drive.google.com/file/d/1scuFwqh8s7KIYAfZW1Eu6088ZAK2SI-v/view?usp=sharing)
+# Download [New Google Drive Link]
+The whole dataset can be downloaded here: [Google Drive]( https://drive.google.com/file/d/1K9dyvQPAplgUfHgl6wta46_Wa7hsJIch/view?usp=sharing)
 
 
 Note: For users from mainland China, google drive cannot be accessed. Please send an email to zhoukun@u.nus.edu. We will share this dataset with you through other platforms.
